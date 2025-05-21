@@ -2,4 +2,5 @@ A committed front-end developer, but a bit of everything really - web dev/design
 
 My public repos are sorted neatly in the [stars](https://github.com/maksiksq?tab=stars) tab, so you might want to check that out.
 
+And here's my portfolio:
 [maksiksync.vercel.app](https://maksiksync.vercel.app/)
