@@ -4,6 +4,7 @@ My public repos are sorted neatly in the [stars](https://github.com/maksiksq?tab
 
 <div float="left">
   <img src="https://ik.imagekit.io/maksiks/cricket7slippers.png" width="230" alt="a cricket because why not"/>
+  <img src="https://ik.imagekit.io/maksiks/portfoliopagey.png" width="230" alt="Portfolio illusion"/>
   <img src="https://ik.imagekit.io/maksiks/5415961508833260773.jpg" width="230" alt="E-E-EXPLOSION"/>
 </div><br>
 
