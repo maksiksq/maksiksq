@@ -1,4 +1,4 @@
-A committed full-stack developer, but a bit of everything really - web dev/design, generally programming, video editing, translation, music, 3D design etc.
+A committed full-stack developer, but a bit of everything really - a web dev/designer, generally programmer, video editor, multilingual translator, a bit of a musician, 3D designer, artist etc.
 
 My public repos are sorted neatly in the [stars](https://github.com/maksiksq?tab=stars) tab, check them out!<br><br>
 
